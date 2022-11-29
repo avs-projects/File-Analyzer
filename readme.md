@@ -10,7 +10,7 @@ This java program allows to analyze a file by presenting :
 - size
 - authenticity
 
-See : video folder
+See : [video](https://raw.githubusercontent.com/avs-projects/File-Analyzer/main/video/file_analyzer_presentation.mp4)
 
 ## How to run the project 
 
