@@ -12,9 +12,9 @@ This java program allows to analyze a file by presenting :
 
 See : video folder
 
-# How to run the project 
+## How to run the project 
 
-## Linux terminal 
+### Linux terminal 
 
 run :
 
@@ -23,21 +23,22 @@ javac GUI.java
 java GUI
 ```
 
-## Eclipse
+### Eclipse
 
 Import the project and run as GUI.
 
 
-# How to use the program
+## How to use the program
 
 Select a file that you want to test.
 
-# Author 
+## Author 
 
 - Alexandre VAZ SILVA and Frédéric VO
 
-# Other 
+## Other 
 
 Project level : L1
+
 Date : 2018
 
